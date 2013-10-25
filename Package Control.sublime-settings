@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Emmet",
+		"HTML5",
+		"JSHint Gutter",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime"
+	]
+}

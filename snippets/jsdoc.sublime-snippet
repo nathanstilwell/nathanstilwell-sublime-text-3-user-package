@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * ${1:Description}
+ * @method  ${2:method name}
+ * @${3:public}${4:private}
+ * ${5:@return}  ${6:return description}
+ */
+]]></content>
+  <tabTrigger>jsdoc</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

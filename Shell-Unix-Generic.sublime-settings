@@ -1,0 +1,18 @@
+{
+	"extensions":
+	[
+		"zshrc",
+		"zsh-theme",
+		"zsh_aliases",
+		"profile",
+		"gitconfig",
+		"gitignore",
+		"hgrc",
+		"hgignore",
+		"zsh",
+		"conf",
+		".functions",
+		".aliases",
+		".zsh_aliases"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"detech_slow_plugins": false,
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".git",
+		".svn",
+		".hg",
+		"CVS",
+		"target",
+		"dist",
+		"lib",
+		"log",
+		"logs",
+		".idea",
+		".idea_modules"
+	],
+	"font_face": "M+ 1m thin",
+	"font_size": 15.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 2,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
