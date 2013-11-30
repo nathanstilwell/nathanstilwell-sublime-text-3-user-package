@@ -1,11 +1,11 @@
 {
-  "files":
-  {
-  },
-  "packages":
-  {
-    "jasmine": "https://github.com/jared-stilwell/jasmine-starter/archive/master.zip",
-    "grunt-connect" : "https://github.com/upright-netizen/grunt-connect-starter/archive/master.zip",
-    "grunt-watch-jshint" : "https://github.com/upright-netizen/grunt-watch-jshint/archive/master.zip"
-  }
+	"files":
+	{
+	},
+	"packages":
+	{
+		"grunt-connect": "https://github.com/upright-netizen/grunt-connect-starter/archive/master.zip",
+		"grunt-watch-jshint": "https://github.com/upright-netizen/grunt-watch-jshint/archive/master.zip",
+		"jasmine": "https://github.com/jared-stilwell/jasmine-starter/archive/master.zip"
+	}
 }
