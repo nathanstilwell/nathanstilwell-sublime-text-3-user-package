@@ -1,6 +1,6 @@
 {
 	"auto_complete": false,
-	"color_scheme": "Packages/User/color-themes/tomorrow-night-bright-edit.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"detech_slow_plugins": false,
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
@@ -33,7 +33,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 2,
 	"tab_size": 2,
-	"theme": "Nil.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
