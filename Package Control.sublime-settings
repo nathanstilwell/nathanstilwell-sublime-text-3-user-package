@@ -3,8 +3,9 @@
 	"installed_packages":
 	[
 		"Emmet",
-		"HTML5",
+		"GitGutter",
 		"JSHint Gutter",
+		"LESS",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"SideBarEnhancements",
