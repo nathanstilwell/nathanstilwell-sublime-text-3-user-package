@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[/*jshint validthis: true*/]]></content>
+    <tabTrigger>validthis</tabTrigger>
+    <scope>source.js</scope>
+    <description>JSHint valid case for using this</description>
+</snippet>
