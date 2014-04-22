@@ -1,5 +1,7 @@
 {
 	"auto_complete": false,
+	"caret_extra_bottom": 4,
+	"caret_extra_top": 4,
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"detech_slow_plugins": false,
 	"draw_white_space": "all",
@@ -17,7 +19,7 @@
 		".idea_modules"
 	],
 	"font_face": "M+ 1m thin",
-	"font_size": 15.0,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -25,6 +27,11 @@
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
 	"rulers":
 	[
 		80,
@@ -35,5 +42,6 @@
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
 }

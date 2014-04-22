@@ -13,6 +13,7 @@
 		"conf",
 		".functions",
 		".aliases",
-		".zsh_aliases"
+		".zsh_aliases",
+		".zshrc"
 	]
 }
