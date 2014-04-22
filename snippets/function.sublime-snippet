@@ -1,5 +1,7 @@
 <snippet>
-    <content><![CDATA[function $1 ($2) {$4}$3]]></content>
+    <content><![CDATA[function $1 ($2) {
+  $4
+}$3]]></content>
     <tabTrigger>()</tabTrigger>
     <scope>source.js</scope>
     <description>Anonymous Function</description>
