@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"handlebars"
+		"handlebars",
+		"hbs"
 	]
 }

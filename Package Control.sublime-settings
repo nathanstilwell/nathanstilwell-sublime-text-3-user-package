@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"DocBlockr",
 		"Emmet",
 		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
