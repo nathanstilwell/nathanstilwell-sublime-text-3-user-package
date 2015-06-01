@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[/*global $1: $2 */]]></content>
+    <content><![CDATA[/*global $1 */]]></content>
     <tabTrigger>globals</tabTrigger>
     <scope>source.js</scope>
     <description>jshint defaults</description>

@@ -1,3 +1,4 @@
 [
-  { "keys" : ["super+ctrl+space"], "command": "toggle_side_bar" }
+  { "keys" : ["super+ctrl+space"], "command": "toggle_side_bar" },
+  { "keys": ["super+k", "super+z"], "command": "zoom_pane", "args": {"fraction": 1} }
 ]

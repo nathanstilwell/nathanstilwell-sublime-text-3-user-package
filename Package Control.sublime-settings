@@ -1,11 +1,16 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
 		"DocBlockr",
 		"Emmet",
+		"Git Config",
 		"GitGutter",
+		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
 		"JSHint Gutter",
 		"LESS",
@@ -13,6 +18,7 @@
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
+		"ReactJS",
 		"SideBarEnhancements",
 		"Slate",
 		"SublimeLinter",
