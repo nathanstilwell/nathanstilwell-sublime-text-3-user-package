@@ -1,4 +1,7 @@
 .DS_Store
 Package Control.*
+*.system-ca-bundle
 !Package Control.sublime-settings
+*.merged-ca-bundle
 Side Bar.sublime-settings
+SublimeLinter/
