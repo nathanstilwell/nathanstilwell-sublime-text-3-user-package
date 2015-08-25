@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Base16 Color Schemes",
 		"DocBlockr",
 		"Emmet",
@@ -13,11 +14,9 @@
 		"Handlebars",
 		"JSHint Gutter",
 		"LESS",
-		"Nettuts+ Fetch",
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
-		"ReactJS",
 		"SideBarEnhancements",
 		"Slate",
 		"SublimeLinter",

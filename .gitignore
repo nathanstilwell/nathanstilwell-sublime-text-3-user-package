@@ -1,2 +1,4 @@
+.DS_Store
 Package Control.*
+!Package Control.sublime-settings
 Side Bar.sublime-settings
