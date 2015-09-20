@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -12,7 +13,6 @@
 		"Git Config",
 		"GitGutter",
 		"Handlebars",
-		"JSHint Gutter",
 		"LESS",
 		"Origami",
 		"Package Control",
@@ -20,6 +20,7 @@
 		"SideBarEnhancements",
 		"Slate",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-shellcheck",
 		"Theme - Spacegray"
 	],
