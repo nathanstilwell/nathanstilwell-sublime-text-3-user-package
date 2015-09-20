@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+function $1 (React) {
+  return React.createClass({
+    render: function () {
+      return (
+        ${2:<div />}
+      );
+    }
+  });
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+  var React = require('react');
+  module.exports = $1(React);
+} else {
+  define(['react'], $1);
+}
+]]></content>
+  <tabTrigger>reactClass</tabTrigger>
+</snippet>
