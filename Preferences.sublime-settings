@@ -13,14 +13,15 @@
 		".hg",
 		"CVS",
 		"target",
-		"dist",
 		"log",
 		"logs",
 		".idea",
-		".idea_modules"
+		".idea_modules",
+		"node_modules",
+		"styleguide"
 	],
-	"font_face": "M+ 1m thin",
-	"font_size": 18,
+	"font_face": "M+ 1mn light",
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
