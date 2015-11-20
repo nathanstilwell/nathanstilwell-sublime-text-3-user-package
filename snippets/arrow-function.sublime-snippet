@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[($1) => {
+  $2
+}$3]]></content>
+    <tabTrigger>()></tabTrigger>
+    <scope>source.js</scope>
+    <description>Anonymous Fat Arrow Function</description>
+</snippet>
