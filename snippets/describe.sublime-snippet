@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[describe('$1', function () {
+    <content><![CDATA[describe('$1', () => {
   $2
 });]]></content>
     <tabTrigger>describe</tabTrigger>
