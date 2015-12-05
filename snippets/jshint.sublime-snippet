@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[/*jshint esnext: true, laxcomma: true, eqeqeq: true, bitwise: true, curly: true, latedef: true, strict: true, plusplus: true*/]]></content>
-    <tabTrigger>jshints</tabTrigger>
-    <scope>source.js</scope>
-    <description>jshint defaults</description>
-</snippet>
